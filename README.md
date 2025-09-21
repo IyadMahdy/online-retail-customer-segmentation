@@ -81,5 +81,5 @@ Aggregated data at customer level:
 - **PowerBI Dashboard**: Differentiates clusters visually for stakeholders
 - **t-SNE Plot**: Shows separation between clusters
 
-![3-Cluster t-SNE Visualization](images/3-cluster-tsne.png)  
-![PowerBI Dashboard Screenshot](images/Dashboard.png)
+![3-Cluster t-SNE Visualization](Images/3-cluster-tsne.png)  
+![PowerBI Dashboard Screenshot](Images/Dashboard.png)
